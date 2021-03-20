@@ -1,1 +1,1 @@
-High available redis helmchart to use in ZT POC.
+High available redis helm chart to use in ZT.
